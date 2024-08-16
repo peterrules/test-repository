@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a cybersecurity bootcamp**
+ 🔭 I’m currently attending **a cybersecurity bootcamp**
  
  🌱 I’m currently learning **sql, Python, AWS, bash**
 
