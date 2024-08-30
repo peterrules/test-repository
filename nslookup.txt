@@ -7,3 +7,14 @@ Address: 172.217.5.14
 Name:	google.com
 Address: 2607:f8b0:4009:802::200e
 
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	pog.com
+Address: 157.230.67.20
+Name:	pog.com
+Address: 167.172.0.15
+Name:	pog.com
+Address: 174.138.126.223
+
