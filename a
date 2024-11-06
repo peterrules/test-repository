@@ -1,0 +1,7 @@
+if computer == "scissors" :
+    print("the computer chose scissors!") 
+elif computer == "paper" :
+    print("the computer chose paper!")
+elif computer == "rock" :
+    print("the computer chose paper!")
+
